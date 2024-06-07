@@ -1,4 +1,4 @@
-# Pyhton Asyncio Lab
+# Python Asyncio Lab
 This project aims to demonstrate the execution behavior in cooroutines and threads and their interaction with memory.
 
 ## 1. Task
