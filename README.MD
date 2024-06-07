@@ -15,7 +15,7 @@ C(8): CCCCCCCC
 ```
 
 Optional:
-- With debug, log: `python3 ./examples/task/asyncio-gather.py` --debug
+- With debug, log: `python3 ./examples/task/asyncio-gather.py --debug`
 - With debug real time, log: `python3 ./examples/task/asyncio-gather.py --debug-real-time`
 
 *_tested using Python 3.10.12_
